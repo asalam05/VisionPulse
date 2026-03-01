@@ -3,9 +3,7 @@
 **Intelligent monitoring for wellness and peace of mind.**
 
 <br/>
-<video src="./Doc/1772016127006671.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
+<img src="./Doc/image.png" alt="VisionPulse Dashboard" width="100%" />
 <br/>
 
 VisionPulse is a web-based wellness and monitoring application built with Vite, utilizing MediaPipe for computer vision tasks and WebSockets for real-time remote monitoring. 
