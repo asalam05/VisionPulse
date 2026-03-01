@@ -4,6 +4,10 @@
 
 VisionPulse is a web-based wellness and monitoring application built with Vite, utilizing MediaPipe for computer vision tasks and WebSockets for real-time remote monitoring. 
 
+![Uploading image.png…]()
+
+
+
 ## Features
 
 - **Device Roles:** Choose to run as the *Host Camera* or a *Remote Monitor* using a secure PIN code.
